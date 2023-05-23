@@ -1,0 +1,10 @@
+list1=[1,2,3,4]
+list2=["abcd","ils","fa","hello","world"]
+list3=[4,"df",34]
+list4=[1,4,3,print,89]
+list5=["肥肠干锅","宫爆鸡丁","酸菜鱼","糖醋排骨"]
+print(list1[-3])
+list6=[list1,list5]
+print(list6[1])
+a=[[1,2,3,4,],[6,7,8],["hello","print"]]
+print(a[0][1])
